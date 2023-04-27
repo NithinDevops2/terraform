@@ -33,3 +33,7 @@ module "redis" {
 module "rabbitmq" {
   source = "./rabbitmq"
 }
+
+module "user" {
+  source = "./user"
+}
