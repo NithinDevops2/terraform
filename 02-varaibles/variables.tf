@@ -42,3 +42,5 @@ variable "new" {}
 
 #variable values from cli
 variable "cli" {}
+
+variable "shell" {}
