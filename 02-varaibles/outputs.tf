@@ -24,3 +24,7 @@ output "map_bool" {
 output "new" {
   value = var.new
 }
+
+output "cli" {
+  value = var.cli
+}
