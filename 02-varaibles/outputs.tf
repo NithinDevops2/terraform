@@ -8,3 +8,7 @@ output "list1" {
 output "list2" {
   value = var.list[1]
 }
+
+output "map_string" {
+  value = var.map["string"]
+}
