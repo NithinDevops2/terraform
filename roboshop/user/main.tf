@@ -1,6 +1,6 @@
 module "roboshop" {
   source = "../module"
-  COMPONENT = "frontend"
-  PORT = 80
+  COMPONENT = "user"
+  PORT = 8080
   MONITOR = "yes"
 }
