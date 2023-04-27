@@ -36,3 +36,5 @@ variable "map" {
     number = 123,
     boolean = true }
 }
+
+variable "new" {}
