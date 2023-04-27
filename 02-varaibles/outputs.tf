@@ -3,5 +3,5 @@ output "sample" {
 }
 
 output "list1" {
-  value = var.list
+  value = var.list[0]
 }
